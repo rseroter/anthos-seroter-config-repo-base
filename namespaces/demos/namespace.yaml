@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   name: demos
   labels:
-    istio-injection-istio.io/rev: asm-191-1
+    #istio-injection-istio.io/rev: asm-191-1
+    istio-injection: enabled
