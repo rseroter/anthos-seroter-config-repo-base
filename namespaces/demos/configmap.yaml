@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: region-config
+data:
+    home-region: northam
