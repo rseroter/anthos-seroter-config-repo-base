@@ -4,4 +4,3 @@ metadata:
     name: region-config
 data:
     home-region: northam
-    show-beta-nav: "false"
