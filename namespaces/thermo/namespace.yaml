@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: thermo
-  labels:
-    istio.io/rev: asm-191-1
