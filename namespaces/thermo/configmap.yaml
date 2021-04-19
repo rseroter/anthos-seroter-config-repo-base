@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+    name: thermo-config
+data:
+    sensitivityRating: "3.75"
+    deviceLogLevel: "standard"
