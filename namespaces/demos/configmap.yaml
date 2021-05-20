@@ -3,4 +3,5 @@ kind: ConfigMap
 metadata:
     name: region-config
 data:
-    home-region: northam
+    home-region: eu
+    show-side-nav: "true"
