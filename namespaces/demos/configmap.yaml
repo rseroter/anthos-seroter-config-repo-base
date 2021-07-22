@@ -4,3 +4,4 @@ metadata:
     name: region-config
 data:
     home-region: northam
+    nav-flag: "true"
