@@ -7,6 +7,8 @@ spec:
     kinds:
       - apiGroups: [""]
         kinds: ["Service"]
+    namespaces:
+      - web-apps
   parameters:
     allowedIPs:
-      - []
+      - ["104.199.112.130"]
