@@ -10,5 +10,4 @@ spec:
     namespaces:
       - web-apps
   parameters:
-    allowedIPs:
-      - ["104.199.112.130"]
+    allowedIPs: "104.199.112.130"
