@@ -4,4 +4,4 @@ metadata:
     name: region-config
 data:
     home-region: northam
-    feature-flag: "true"
+    show-side-nav: "true"
