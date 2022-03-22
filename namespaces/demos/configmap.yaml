@@ -3,5 +3,4 @@ kind: ConfigMap
 metadata:
     name: region-config
 data:
-    home-region: southamerica
-    show-side-nav: "true"
+    home-region: nordics
