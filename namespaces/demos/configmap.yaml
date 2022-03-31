@@ -4,4 +4,5 @@ metadata:
     name: region-config
 data:
     home-region: westus
+    show-new-nav: "true"
     
