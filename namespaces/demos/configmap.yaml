@@ -3,5 +3,4 @@ kind: ConfigMap
 metadata:
     name: region-config
 data:
-    home-region: us-east
-    show-new-nav: "true"
+    home-region: europe-west9
